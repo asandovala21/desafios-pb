@@ -1,2 +1,2 @@
 # desafios-pb
-Desafíos de curso programación backend resueltos 
+Desafío 2 de curso programación backend resuelto
