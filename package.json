@@ -1,0 +1,24 @@
+{
+  "name": "contenedor.js",
+  "version": "1.0.0",
+  "description": "Desarrollo de desafío2 del curso PB",
+  "main": "contenedor.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asandovala21/desafios-pb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asandovala21/desafios-pb/issues"
+  },
+  "homepage": "https://github.com/asandovala21/desafios-pb#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
