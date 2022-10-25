@@ -1,0 +1,22 @@
+{
+  "name": "contenedor",
+  "version": "1.0.0",
+  "description": "Desarrollo desafío2",
+  "main": "Contenedor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asandovala21/desafios-pb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asandovala21/desafios-pb/issues"
+  },
+  "homepage": "https://github.com/asandovala21/desafios-pb#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
