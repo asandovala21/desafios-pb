@@ -1,0 +1,23 @@
+{
+  "name": "servidor-contenedor",
+  "version": "1.0.0",
+  "description": "desarrollo desafío3",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asandovala21/desafios-pb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asandovala21/desafios-pb/issues"
+  },
+  "homepage": "https://github.com/asandovala21/desafios-pb#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
